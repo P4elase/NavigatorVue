@@ -22,19 +22,19 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "android-launchericon-512-512.png",
+      "src": "https://raw.githubusercontent.com/P4elase/NavigatorVue/main/assets/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "android-launchericon-192-192.png",
+      "src": "https://raw.githubusercontent.com/P4elase/NavigatorVue/main/assets/android-launchericon-192-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "android-launchericon-96-96.png",
+      "src": "https://raw.githubusercontent.com/P4elase/NavigatorVue/main/assets/android-launchericon-96-96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable"
@@ -42,13 +42,13 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot1.png",
+      "src": "https://raw.githubusercontent.com/P4elase/NavigatorVue/main/assets/screenshot1.png",
       "sizes": "960x1360",
       "type": "image/png",
       "description": "A screenshot of the home page"
     },
     {
-      "src": "screenshot2.png",
+      "src": "https://raw.githubusercontent.com/P4elase/NavigatorVue/main/assets/screenshot2.png",
       "sizes": "2683x1384",
       "type": "image/png",
       "form_factor": "wide",
@@ -58,11 +58,11 @@
   "shortcuts": [
     {
       "name": "Home",
-      "url": "/",
+      "url": "https://p4elase.github.io/NavigatorVue/",
       "description": "Home page",
       "icons": [
         {
-          "src": "android-launchericon-96-96.png",
+          "src": "https://raw.githubusercontent.com/P4elase/NavigatorVue/main/assets/android-launchericon-96-96.png",
           "sizes": "96x96"
         }
       ]
