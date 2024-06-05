@@ -2,7 +2,7 @@
   "name": "Компаньон участкового",
   "id": "/",
   "short_name": "Navigator",
-  "start_url": "/",
+  "start_url": "https://p4elase.github.io/NavigatorVue/",
   "display": "standalone",
   "display_override": [
     "standalone",
