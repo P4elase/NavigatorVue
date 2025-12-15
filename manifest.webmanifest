@@ -1,0 +1,1 @@
+{"name":"Navigator","short_name":"Navigator","start_url":"/NavigatorVue/","display":"standalone","background_color":"#0056b3","theme_color":"#007bff","lang":"ru","scope":"/NavigatorVue/","icons":[{"src":"android-launchericon-192-192.png","sizes":"192x192","type":"image/png"},{"src":"android-launchericon-512-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
