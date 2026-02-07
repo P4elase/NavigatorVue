@@ -1,6 +1,6 @@
 {
   "name": "Navigator",
-  "id": "/",
+  "id": "7913468245659878123236967414",
   "short_name": "Navigator",
   "start_url": "/NavigatorVue/",
   "display": "standalone",
@@ -22,19 +22,19 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "android-launchericon-512-512.png",
+      "src": "/src/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "android-launchericon-192-192.png",
+      "src": "/src/android-launchericon-192-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "android-launchericon-96-96.png",
+      "src": "/src/android-launchericon-96-96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable"
@@ -42,13 +42,13 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot1.png",
+      "src": "/src/screenshot1.png",
       "sizes": "612x1359",
       "type": "image/png",
       "description": "A screenshot of the home page"
     },
     {
-      "src": "screenshot2.png",
+      "src": "/src/screenshot2.png",
       "sizes": "1614x910",
       "type": "image/png",
       "form_factor": "wide",
@@ -62,7 +62,7 @@
       "description": "Home page",
       "icons": [
         {
-          "src": "android-launchericon-96-96.png",
+          "src": "/src/android-launchericon-96-96.png",
           "sizes": "96x96"
         }
       ]
@@ -70,4 +70,5 @@
   ]
 
 }
+
 
