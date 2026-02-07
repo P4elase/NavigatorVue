@@ -42,13 +42,13 @@
   ],
   "screenshots": [
     {
-      "src": "/NavigatorVue/src/screenshot1.png",
+      "src": "/NavigatorVue/screenshot1.png",
       "sizes": "612x1359",
       "type": "image/png",
       "description": "A screenshot of the home page"
     },
     {
-      "src": "/NavigatorVue/src/screenshot2.png",
+      "src": "/NavigatorVue/screenshot2.png",
       "sizes": "1614x910",
       "type": "image/png",
       "form_factor": "wide",
@@ -70,6 +70,7 @@
   ]
 
 }
+
 
 
 
